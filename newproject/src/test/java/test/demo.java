@@ -30,7 +30,7 @@ public class demo {
 		  driver.findElement(By.xpath("//input[@value=\"radio1\"]")).click();
 	    
 
-	 Thread.sleep(5000);
+	 //Thread.sleep(5000);
 	 driver.close();
 	 
 	}
